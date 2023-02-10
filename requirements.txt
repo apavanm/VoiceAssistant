@@ -1,3 +1,4 @@
+streamlit
 pyaudio
 speechrecognition
 pyttsx3
